@@ -1,0 +1,12 @@
+{
+  "name": "fanalytics",
+  "version": "1.0.0",
+  "description": "Basketball analytics app that will change the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
